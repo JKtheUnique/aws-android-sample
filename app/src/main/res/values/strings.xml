@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidForJK</string>
+    <string name="facebook_app_id">1541313392752509</string>
+    <string name="title_activity_data_set_list">DataSetListActivity</string>
+    <string name="title_activity_data_set_contents_list">DataSetContentsListActivity</string>
+    <string name="title_activity_dynamo">DynamoActivity</string>
+    <string name="title_activity_s3">S3Activity</string>
+
+</resources>
